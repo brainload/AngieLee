@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Website launch page
 
 Placeholder page with .htaccess config for pre-launch stage
@@ -162,3 +163,6 @@ There you can find classnames of the markup blocks and elements that can be cust
 
 ## License
 [MIT](https://github.com/website-templates/website-launch-pages/blob/master/LICENSE.md)
+=======
+# AngieLee
+>>>>>>> 21a21be01b8a16094564793f820af7779595d13a
